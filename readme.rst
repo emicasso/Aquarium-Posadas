@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <h2>Acuarium Posadas</h2><br>
+        <a href="https://github.com/emicasso/Aquarium-Posadas" target="_blank">Acuarium Posadas</a><br>
     </b>
 :collision:Ecommerce for the sale of aquarium supplies.:collision:<br>
 </h1>
