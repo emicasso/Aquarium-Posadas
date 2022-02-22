@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <h1>Acuarium Posadas</h1><br>
+        <h2>Acuarium Posadas</h2><br>
     </b>
 :collision:Ecommerce for the sale of aquarium supplies.:collision:<br>
 </h1>
